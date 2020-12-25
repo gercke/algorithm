@@ -9,4 +9,4 @@ var findNumberIn2DArray = function(matrix, target) {
       }
     }
     return flag;
-  };
+};
